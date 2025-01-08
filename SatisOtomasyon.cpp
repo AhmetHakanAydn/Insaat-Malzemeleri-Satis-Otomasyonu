@@ -105,7 +105,7 @@ public:
                     malzemeler[i].setStok(yeniStok);
                 }
 
-                cout << "Malzeme güncellendi!\n";
+                cout << "Malzeme gÃ¼ncellendi!\n";
                 break;
             }
         }
